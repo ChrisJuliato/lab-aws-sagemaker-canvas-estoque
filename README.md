@@ -1,7 +1,7 @@
 # Previsão de Séries Temporais para Controle de Estoque de Máquinas Agrícolas
 
 ## Visão Geral
-Este projeto foi desenvolvido com base na minha experiência em uma empresa agrícola, utilizando dados e cenários que refletem as operações reais da empresa. O objetivo é criar e utilizar um dataset para previsão de séries temporais de estoques de máquinas agrícolas usando o AWS SageMaker Canvas, otimizando assim a gestão do inventário e dos recursos.
+Este projeto foi desenvolvido com base na minha experiência em uma empresa agrícola. O objetivo é criar e utilizar um dataset para previsão de séries temporais de estoques de máquinas agrícolas usando o AWS SageMaker Canvas, otimizando assim a gestão do inventário e dos recursos.
 
 ## Dataset
 O dataset foi elaborado para atender aos requisitos de previsões de séries temporais, simulando um ambiente real de gestão de estoque em uma empresa de máquinas agrícolas com entradas históricas detalhadas para cada produto:
