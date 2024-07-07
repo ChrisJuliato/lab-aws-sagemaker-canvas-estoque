@@ -22,4 +22,7 @@ Utilizando o AWS SageMaker Canvas, configurei um modelo de previsão de séries 
 ## Resultados
 O modelo de previsão desenvolvido foi capaz de identificar padrões nos dados de estoque e fornecer previsões precisas para as futuras necessidades de estoque nos próximos 30 dias, permitindo uma gestão de estoque mais proativa e eficiente.
 
+![single_prediction_results](https://github.com/ChrisJuliato/lab-aws-sagemaker-canvas-estoque/assets/166357072/c3ccab7c-ce75-470a-9f30-084fc1419b04)
+
+
 
